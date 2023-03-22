@@ -28,6 +28,14 @@
   color: #61dafb;
 }
 
+.text-color {
+  color: #f647c2;
+}
+
+#main::-webkit-scrollbar {
+  display: none;
+}
+
 @keyframes App-logo-spin {
   from {
     transform: rotate(0deg);
