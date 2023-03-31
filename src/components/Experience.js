@@ -12,13 +12,15 @@ import { motion } from "framer-motion";
 
 const Experience = () => {
   return (
-    <div className="flex h-full justify-center items-center relative">
+    <div className="flex h-full justify-center items-center relative ">
       <p className="absolute top-10 text-lg md:text-3xl font-bold justify-center font-mono uppercase tracking-[15px]">
         Experience
       </p>
       <Card
         variant="outline"
-        bgColor="#1e2634"
+        borderColor="#f64c72"
+        bgColor="#242582"
+        borderWidth="3px"
         maxW="60vw"
         className="rounded-2xl"
       >
@@ -33,7 +35,7 @@ const Experience = () => {
           <Text className="my-3 font-semibold text-md md:text-xl">
             Aug 2021 - Present
           </Text>
-          <UnorderedList className="self-start pl-2 pb-1 text-sm md:text-lg">
+          <UnorderedList className="self-start pl-2 pb-1 text-sm md:text-lg font-sans">
             <ListItem>
               Enhancing overall user experience of the product
             </ListItem>

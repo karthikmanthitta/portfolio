@@ -1,9 +1,9 @@
-import Pic from "../assets/pic.jpg";
+import Pic from "../assets/pic2.png";
 import { motion } from "framer-motion";
 
 const About = () => {
   return (
-    <div className="flex flex-col justify-center h-full items-center gap-10 relative">
+    <div className="flex flex-col justify-center h-full items-center gap-10 relative bg-gradient-to-tr  from-[#2f2fa2] via-[#242582] to-[#f64c72]">
       <p className="absolute top-10 text-lg md:text-3xl font-bold justify-center font-mono uppercase tracking-[15px]">
         About
       </p>
@@ -19,7 +19,7 @@ const About = () => {
           />
         </div>
         <div className="flex flex-col md:w-1/2  p-14 gap-8">
-          <p className="flex text-sm md:text-lg justify-evenly">
+          <p className="flex text-sm md:text-lg justify-evenly font-sans">
             Fullstack Web Developer with hands-on experience in product
             development and software development lifecycle. In addition, have
             ample experience in understanding and satisfying client needs and

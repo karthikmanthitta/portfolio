@@ -7,7 +7,7 @@ import kubernetes from "../assets/kubernetes.svg";
 
 const Skills = () => {
   return (
-    <div className="flex flex-col justify-center h-full items-center relative cursor-pointer">
+    <div className="flex flex-col justify-center h-full items-center relative cursor-pointer bg-gradient-to-bl  from-[#2f2fa2] via-[#242582] to-[#f64c72]">
       <p className="absolute top-10 text-lg md:text-3xl font-bold justify-center font-mono uppercase tracking-[15px]">
         Skills
       </p>
