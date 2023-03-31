@@ -1,0 +1,22 @@
+{
+  "files": {
+    "main.css": "/portfolio/static/css/main.506d7a42.css",
+    "main.js": "/portfolio/static/js/main.2aa87f35.js",
+    "static/js/787.1ed0c42c.chunk.js": "/portfolio/static/js/787.1ed0c42c.chunk.js",
+    "static/media/pic2.png": "/portfolio/static/media/pic2.6dc684044b74cb6db0a3.png",
+    "static/media/kubernetes.svg": "/portfolio/static/media/kubernetes.1eee5937fd0bbaad6ebd5d964f537e9e.svg",
+    "static/media/docker.svg": "/portfolio/static/media/docker.115087bfd5daae2d619d2435e34b0ad4.svg",
+    "static/media/java.svg": "/portfolio/static/media/java.d565ae8b28b18584549395ff50d7921a.svg",
+    "static/media/spring.svg": "/portfolio/static/media/spring.9d3fbfff6a798bba3bbbe1bdf41ed1af.svg",
+    "static/media/js.svg": "/portfolio/static/media/js.1bb284576c005e32585a533845b11264.svg",
+    "static/media/reactjs.svg": "/portfolio/static/media/reactjs.05b7d93b0d5727e2b93af39016917ee4.svg",
+    "index.html": "/portfolio/index.html",
+    "main.506d7a42.css.map": "/portfolio/static/css/main.506d7a42.css.map",
+    "main.2aa87f35.js.map": "/portfolio/static/js/main.2aa87f35.js.map",
+    "787.1ed0c42c.chunk.js.map": "/portfolio/static/js/787.1ed0c42c.chunk.js.map"
+  },
+  "entrypoints": [
+    "static/css/main.506d7a42.css",
+    "static/js/main.2aa87f35.js"
+  ]
+}
